@@ -3,6 +3,7 @@
 # It is located at /home/<usr>/.autostart.sh
 
 # These commands maps my escape key to caps-lock and vise versa.
+# .Xmodmap should be located at /home/<usr/.Xmodmap for this to work.
 xbindkeys &
 xmodmap /home/joseph/.Xmodmap &
 

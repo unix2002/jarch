@@ -10,8 +10,8 @@ An overview of all the files:
       This file is the configuration file for a prompt that replaces my PS1 bash prompt.
       It needs to be located at ~/.config/starship.toml
 
-xmobarrc
-  - This file is the configuration file for xmobar. It should be located at ~/.config/xmobar/xmobarrc.
+  - xmobarrc
+      This file is the configuration file for xmobar. It should be located at ~/.config/xmobar/xmobarrc.
 
-xmonad.hs:
-  - This is the main xmonad.hs config. It should be at ~/.xmonad/xmonad.hs.
+  - xmonad.hs:
+      This is the main xmonad.hs config. It should be at ~/.xmonad/xmonad.hs.

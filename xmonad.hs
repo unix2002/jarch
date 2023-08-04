@@ -3,7 +3,7 @@
 -- It adds a bunch of shortcuts, like mod + o to open my browser,
 -- mod + f to enter fullscreen-mode and mod + p to open rofi instead of dmenu.
 -- It also adds gaps and works with my custom xmobar config.
--- It start my /home/<usr>/.autostart.sh script which runs whenever xmonad is started.
+-- It causes the shellscript /home/<usr>/.autostart.sh to run whenever xmonad is started.
 -- File location: /home/<usr>/.xmonad/xmonad.hs
 
 -- After altering this file, xmonad needs to be recompiled and restarted for the changes to be implemented.

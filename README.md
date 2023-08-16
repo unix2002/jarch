@@ -16,3 +16,7 @@ An overview of all the files:
 
   - xmonad.hs:
       This is the main xmonad.hs config. It should be at ~/.xmonad/xmonad.hs.
+
+  - configuration.nix
+      This is my nix configuration. /etc/nixos/configuration.nix.
+      When you run nixos-rebuild switch, it helps build nixos.

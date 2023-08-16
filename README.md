@@ -1,6 +1,5 @@
 # jarch
 This repo serves as storage for my personal config files, and also for any other files needed to create jarch-linux, my personal linux distrobution Jarch.
-
 An overview of all the files:
   
   - packages.x86_64
@@ -20,4 +19,3 @@ An overview of all the files:
   - configuration.nix
       This is my nix configuration. /etc/nixos/configuration.nix.
       When you run nixos-rebuild switch, it helps build nixos.
-    Test

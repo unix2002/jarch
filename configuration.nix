@@ -106,6 +106,18 @@
     libnotify
     swww
     rofi-wayland
+    desmume
+    xorg.xev
+    lyrebird
+    bc
+    toybox
+    virtualbox
+    wob
+    qbittorrent
+    nmap
+    texlab
+    texlive.combined.scheme-full
+    evince
     python311Packages.python-lsp-server
     clang-tools
     vscode
@@ -121,10 +133,9 @@
     killall
     gimp
     audacity
-    gtk3
+    gtk4
     firefox
     home-manager
-    steam
     discord
     neovim
     hyprland
@@ -133,6 +144,7 @@
     picom
     sxhkd
     waybar
+    libreoffice
     usbutils
     xorg.xinit
     gcc

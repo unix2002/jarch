@@ -106,6 +106,7 @@
     libnotify
     swww
     rofi-wayland
+    wireshark
     desmume
     xorg.xev
     lyrebird
@@ -156,6 +157,7 @@
     git
     htop
     mpd
+    obsidian
     ncmpcpp
   ];
 

@@ -18,4 +18,4 @@ An overview of all the files:
 
   - configuration.nix
       This is my nix configuration. /etc/nixos/configuration.nix.
-      When you run nixos-rebuild switch, it helps build nixos.
+      When you run nixos-rebuild switch, it builds nixos.
